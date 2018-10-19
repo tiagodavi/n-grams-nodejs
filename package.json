@@ -1,0 +1,16 @@
+{
+  "name": "ngram",
+  "version": "1.0.0",
+  "description": "Code Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.js"
+  },
+  "author": "Tiago Davi (tiago.asp.net@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {}
+}
