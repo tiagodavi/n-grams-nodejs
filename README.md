@@ -25,6 +25,7 @@ This program runs on top of Node 8.12.0
   'me the code',
   'the',
   'the code',
-  'code' ]```
+  'code' ]
+  ```
 
   Run the example with: `$ node index.js`
